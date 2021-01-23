@@ -11,4 +11,4 @@
 - 符合广大同学的需求
 
 [GitHub](https://github.com/Repigeons/NjnuClassroom)
-[Get Started](/zh/introduction)
+[Documents](/zh/introduction)
